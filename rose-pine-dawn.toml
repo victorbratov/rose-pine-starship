@@ -16,8 +16,11 @@ $nim \
 $rust \
 $scala \
 $python\n  \
-$time\n  \
 [󱞪](fg:iris)
+"""
+
+format_right = """
+$time
 """
 
 palette = "rose-pine-dawn"
