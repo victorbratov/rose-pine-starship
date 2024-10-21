@@ -19,7 +19,7 @@ $python\n  \
 [󱞪](fg:iris)
 """
 
-format_right = """
+right_format = """
 $time
 """
 
